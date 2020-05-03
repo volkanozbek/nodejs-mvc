@@ -1,3 +1,2 @@
 # nodejs-mvc
-nodejs derslerinde takılanlar için mvc yapısındaki halini yükledim.
-indirip devam edebilirsiniz.
+nodejs derslerinde takılanlar için yükledim. Umarım işinize yarar
